@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/global-config-service/global-config-service.iml" filepath="$PROJECT_DIR$/global-config-service/global-config-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/smart-gest.iml" filepath="$PROJECT_DIR$/.idea/smart-gest.iml" />
     </modules>
   </component>
